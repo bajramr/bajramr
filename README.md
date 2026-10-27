@@ -8,7 +8,7 @@
 
 Based in Germany. Building for the web and sharing what I learn.
 
-[Portfolio](https://new.bajram.dev/) · [Blog](https://new.bajram.dev/blog/) · [Playground](https://new.bajram.dev/playground/) · [YouTube](https://www.youtube.com/@BajramRamadan) · [LinkedIn](https://www.linkedin.com/in/bajramramadan/)
+[Portfolio](https://bajram.dev/) · [Blog](https://bajram.dev/blog/) · [Playground](https://bajram.dev/playground/) · [YouTube](https://www.youtube.com/@BajramRamadan) · [LinkedIn](https://www.linkedin.com/in/bajramramadan/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
@@ -35,10 +35,10 @@ I enjoy explaining the small decisions behind an interface: how its HTML is stru
 
 | Resource | What you'll find |
 | --- | --- |
-| [Articles & tutorials](https://new.bajram.dev/blog/) | Explanations, examples and lessons from working on web projects. |
-| [Playground](https://new.bajram.dev/playground/) | Small experiments to explore, download and learn from. |
-| [Selected work](https://new.bajram.dev/work/) | Project case studies covering design and development. |
-| [Speaking & community](https://new.bajram.dev/speaking/) | Tutorials, workshops and community activities. |
+| [Articles & tutorials](https://bajram.dev/blog/) | Explanations, examples and lessons from working on web projects. |
+| [Playground](https://bajram.dev/playground/) | Small experiments to explore, download and learn from. |
+| [Selected work](https://bajram.dev/work/) | Project case studies covering design and development. |
+| [Speaking & community](https://bajram.dev/speaking/) | Tutorials, workshops and community activities. |
 | [YouTube](https://www.youtube.com/@BajramRamadan) | Practical video tutorials and frontend examples. |
 
 ## From the Playground
@@ -51,7 +51,7 @@ The example explores possible phone, tablet and desktop results while explaining
 
 **Built with:** HTML · JavaScript
 
-[Explore the experiment and download the code →](https://new.bajram.dev/playground/?lab_search=Basic%20JavaScript%20Device%20Detection)
+[Explore the experiment and download the code →](https://bajram.dev/playground/?lab_search=Basic%20JavaScript%20Device%20Detection)
 
 ## Technologies & tools
 
@@ -67,7 +67,7 @@ The example explores possible phone, tablet and desktop results while explaining
 
 I also contribute as a technical reviewer and share knowledge through workshops and community activities. I value examples that people can understand, adapt and build on.
 
-[Books & publications](https://new.bajram.dev/books-publications/) · [More about my background](https://new.bajram.dev/about/)
+[Books & publications](https://bajram.dev/books-publications/) · [More about my background](https://bajram.dev/about/)
 
 ---
 
@@ -77,7 +77,7 @@ I also contribute as a technical reviewer and share knowledge through workshops 
 
 Have a project idea, a question about a tutorial or an opportunity to collaborate?
 
-[Get in touch](https://new.bajram.dev/contact/) · [LinkedIn](https://www.linkedin.com/in/bajramramadan/) · [YouTube](https://www.youtube.com/@BajramRamadan)
+[Get in touch](https://bajram.dev/contact/) · [LinkedIn](https://www.linkedin.com/in/bajramramadan/) · [YouTube](https://www.youtube.com/@BajramRamadan)
 
 **Build something useful. Share what you learn.**
 
